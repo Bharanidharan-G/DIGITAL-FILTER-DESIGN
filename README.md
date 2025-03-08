@@ -34,3 +34,6 @@ Clone this repository.
 Implement the FIR filter using Verilog or MATLAB.
 Simulate the design using appropriate tools (ModelSim, MATLAB Simulink, etc.).
 Analyze the filter’s response and document the results.
+
+![Image](https://github.com/user-attachments/assets/f07a6529-e351-4046-9f28-3438f90e1087)
+![Image](https://github.com/user-attachments/assets/a64648e0-230d-48c8-8f2b-21e281e1933d)
